@@ -1,6 +1,6 @@
-# Seo-Hyeon-Jun
-# Dillinger
-## _The Last Markdown Editor, Ever_
+# 수정중 
+## DevOps 
+![header](https://capsule-render.vercel.app/api?type=waving&color=1:2F4F4F,150:F5FFFA&height=230&section=header&text=Seo%20Hyeon%20Jun&fontSize=60&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=70&fontAlignY=40)
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
@@ -11,7 +11,7 @@ AngularJS-powered HTML5 Markdown editor.
 
 - Type some Markdown on the left
 - See HTML in the right
-- ✨Magic ✨
+- ✨Magi
 
 ## Features
 
