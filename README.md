@@ -1,26 +1,42 @@
-# 수정중 
-## DevOps 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=1:2F4F4F,150:F5FFFA&height=230&section=header&text=Suh%20Hyeon%20Jun&fontSize=60&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=70&fontAlignY=40)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhHyeonjun&count_bg=%2367CB7D&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
+#### DevOps
+#### [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhHyeonjun&count_bg=%2367CB7D&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SuhHyeonjun&show_icons=true&theme=dark)
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 #### SNS
-https://img.shields.io/badge/Notion-%20-white
-https://img.shields.io/badge/github-GIVEME--STAR-red
+![Notion](https://img.shields.io/badge/notion-white.svg?logo=notion&logoColor=black&style=plastic)
+
+[![mail Badge](https://img.shields.io/badge/Mail-90EE90?style=flat&logo=naver&logoColor=white)](mailto:guswns0208@naver.com)
+
+![instagram](https://img.shields.io/badge/instagram-white.svg?logo=instagram&logoColor=pupple&style=plastic)
+
+![button]<a href="https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290" target="_blank"><img src="https://img.shields.io/badge/Notion?style=flat-square&logo=000000&logoColor=white"/></a>
+
+![34423](https://img.shields.io/badge/github-GIVEME--STAR-red)
 
 https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white
 
  <a href="https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290" target="_blank"><img src="https://img.shields.io/badge/000000?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
  
- <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 
 #### Stack
+---
+![](https://img.shields.io/badge/mysql-4479A1?style=plastic&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/Javascript-F7DF1E?logo=Javascript&logoColor=black&style=plastic)
+![](https://img.shields.io/badge/AWS-FFFAFA?logo=amazonaws&logoColor=black&style=plastic)
+![](https://img.shields.io/badge/docker-E0FFFF?logo=docker&logoColor=blue&style=plastic)
+![](https://img.shields.io/badge/Github-white?logo=Github&logoColor=black&style=plastic)
+![](https://img.shields.io/badge/Terraform-E6E6FA?logo=terraform&logoColor=663399&style=plastic)
+![](https://img.shields.io/badge/DevOps-00FA9A?logo=&logoColor=663399&style=plastic)
+![](https://img.shields.io/badge/CI/CD-87CEFA?logo=&logoColor=663399&style=plastic)
+![](https://img.shields.io/badge/Prometheus-FFE4E1?logo=Prometheus&logoColor=B22222&style=plastic)
+![](https://img.shields.io/badge/Grafana-FFFFE0?logo=grafana&logoColor=FF6347&style=plastic)
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
+
 
 Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,
 AngularJS-powered HTML5 Markdown editor.
