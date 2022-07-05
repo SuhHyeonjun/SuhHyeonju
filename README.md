@@ -1,8 +1,15 @@
 # 수정중 
 ## DevOps 
-![header](https://capsule-render.vercel.app/api?type=waving&color=1:2F4F4F,150:F5FFFA&height=230&section=header&text=Seo%20Hyeon%20Jun&fontSize=60&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=1:2F4F4F,150:F5FFFA&height=230&section=header&text=Suh%20Hyeon%20Jun&fontSize=60&reversal=true&section=footer&animation=twinkling&fontColor=F8F8FF&fontAlign=70&fontAlignY=40)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSuhHyeonjun&count_bg=%23ADEFBC&title_bg=%23544B49&icon=&icon_color=%23FFE2E2&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
+
+![SuhHyeonjun's github stats](https://github-readme-stats.vercel.app/api?username=SuhHyeonjun&show_icons=true)
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+ <a href="클릭시 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/문자-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+ 
+ <img src="https://img.shields.io/badge/문자-색코드?style=for-the-badge&logo=이미지 이름&logoColor=black">
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
