@@ -8,7 +8,7 @@
 
 #### SNS
 ---
-[![Notion](https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat)]
+[![https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290](https://img.shields.io/badge/Notion-white.svg?logo=notion&logoColor=black&style=flat)]
 [![https://hstory0208.notion.site/About-Me-5ed9944db468458aa3d00e5f7f5ee290](https://img.shields.io/badge/Mail-90EE90?style=flat&logo=naver&logoColor=white)](mailto:guswns0208@naver.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:dmsgktn0208@gmail.com)
 ![instagram](https://img.shields.io/badge/instagram-white.svg?logo=instagram&logoColor=pupple&style=plastic)
